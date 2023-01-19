@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\super\\Desktop\\Home_Work\\Lesson2\\Zadacha7\\Zadacha7.csproj": {}
+    "C:\\Users\\super\\Desktop\\Haus-Work\\Lesson2\\Zadacha7\\Zadacha7.csproj": {}
   },
   "projects": {
-    "C:\\Users\\super\\Desktop\\Home_Work\\Lesson2\\Zadacha7\\Zadacha7.csproj": {
+    "C:\\Users\\super\\Desktop\\Haus-Work\\Lesson2\\Zadacha7\\Zadacha7.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\super\\Desktop\\Home_Work\\Lesson2\\Zadacha7\\Zadacha7.csproj",
+        "projectUniqueName": "C:\\Users\\super\\Desktop\\Haus-Work\\Lesson2\\Zadacha7\\Zadacha7.csproj",
         "projectName": "Zadacha7",
-        "projectPath": "C:\\Users\\super\\Desktop\\Home_Work\\Lesson2\\Zadacha7\\Zadacha7.csproj",
+        "projectPath": "C:\\Users\\super\\Desktop\\Haus-Work\\Lesson2\\Zadacha7\\Zadacha7.csproj",
         "packagesPath": "C:\\Users\\super\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\super\\Desktop\\Home_Work\\Lesson2\\Zadacha7\\obj\\",
+        "outputPath": "C:\\Users\\super\\Desktop\\Haus-Work\\Lesson2\\Zadacha7\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\super\\AppData\\Roaming\\NuGet\\NuGet.Config"
